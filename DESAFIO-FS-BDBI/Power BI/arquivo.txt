@@ -1,0 +1,5 @@
+Dataset com dados do crescimento populacional em 2024, com alguns países e cidades.
+
+No gráfico de comparação do crescimento Populacional é possível observa uma a diferença no crescimento da população por países, onde mostra os USA bem a frente dos demais.
+Gráficos demonstração média do crescimento de países e estado mostra um percentual de médio de crescimento populacional alto e outros com bem baixo como o caso de Sidney.
+País com EUA(Estados Unidos) e cidade como London(Londres) tem uma taxa de crescimento da população maior que os demais, isso pode ocorre por causa de serem lugares bastante desenvolvidos.
